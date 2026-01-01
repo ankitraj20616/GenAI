@@ -18,6 +18,11 @@ langchain-text-splitters = "^1.1.0"
 google-genai = "^1.56.0"
 langchain-google-genai = "^4.1.2"
 langchain-openai = "^1.1.6"
+poetry-plugin-shell = "^1.0.1"
+ipynb = "^0.5.1"
+ipykernel = "^7.1.0"
+psycopg2 = "^2.9.11"
+numpy = "<2.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
